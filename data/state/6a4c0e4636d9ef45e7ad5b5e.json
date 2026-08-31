@@ -1,0 +1,234 @@
+{
+  "fetched_at": "2026-08-31T00:59:49.355450+00:00",
+  "name": "Ampliación en S/E Kimal 220 kV (D_04/24) - Etapa 2",
+  "correlativo": 5814,
+  "completition_status": 14,
+  "completition_pes": 16,
+  "service_estimate_date": "2027-12-23T00:00:00",
+  "operative_estimate_date": "2028-05-17T00:00:00",
+  "reception_date": "2026-07-02T00:00:00",
+  "boxes": {
+    "req5a5ebdc901447e4bfc0aa6e3": {
+      "text": "CEM Definitiva",
+      "state": "completado",
+      "is_container": false
+    },
+    "req6088396036d9ef6adef5612c": {
+      "text": "ANIT y PLANOS",
+      "state": "en_curso",
+      "is_container": true
+    },
+    "req5d4c907f36d9ef7615bf7a08": {
+      "text": "DUF",
+      "state": "completado",
+      "is_container": false
+    },
+    "req5ea9f8c136d9ef4be78ea70b": {
+      "text": "ANIT",
+      "state": "completado",
+      "is_container": false
+    },
+    "req5d4d5ffe36d9ef7615c24383": {
+      "text": "RI",
+      "state": "en_curso",
+      "is_container": false
+    },
+    "req60ad0d0d36d9ef44f12350ef": {
+      "text": "Cronograma",
+      "state": "completado",
+      "is_container": false
+    },
+    "req60ca060536d9ef1ee6b43b49": {
+      "text": "INFORMACIÓN TÉCNICA",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req60ca075236d9ef2b9316e203": {
+      "text": "INFOTÉCNICA PARA ESTUDIOS",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req5d4c9a0536d9ef7615c07b9a": {
+      "text": "IT E",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req663e555536d9ef0e1713e378": {
+      "text": "RevITEInv",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5fb1bc5236d9ef6c9002c548": {
+      "text": "IT NO DISPONIBLE",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req5fb1ba3336d9ef6c925390f1": {
+      "text": "PO no disponibles",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5fb1bb6936d9ef6c9002c1d7": {
+      "text": "IT no disponible",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req60ca06b836d9ef38d7c4be4e": {
+      "text": "ESTUDIOS DE INTERCONEXIÓN",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req5d4d62dd36d9ef761727f012": {
+      "text": "ECAP",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4d815e36d9ef7615c337b6": {
+      "text": "ECB",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4d811736d9ef76163c4333": {
+      "text": "ECC",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4d821236d9ef7615c3554c": {
+      "text": "EMT",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4d852636d9ef76183532d7": {
+      "text": "SCADA Y MEDIDAS",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req5d4d8b9e36d9ef76163cb2cf": {
+      "text": "SITR",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req607664e136d9ef3500287df3": {
+      "text": "Enlace",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req606a6b8536d9ef1a2254fa09": {
+      "text": "DIR/TAG",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req606a6bc436d9ef1a2254fc9b": {
+      "text": "Fecha Pruebas",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4d8e6c36d9ef7615c3ecd3": {
+      "text": "Pruebas",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4d8acf36d9ef761835aef5": {
+      "text": "EME",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req6076676d36d9ef7d11ba2199": {
+      "text": "Enlace",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req606a6c0436d9ef51933e5e93": {
+      "text": "Fecha Pruebas",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5e4d4b5a36d9ef2cd9aa1241": {
+      "text": "Pruebas",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4d985736d9ef76163d61b6": {
+      "text": "OTROS PES",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req5d4da28736d9ef7615c57207": {
+      "text": "GM",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4da05136d9ef7615c4d9bd": {
+      "text": "Prot E",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4da0b036d9ef76163e2e6d": {
+      "text": "Prot P",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req6411e30136d9ef1cf5bda82c": {
+      "text": "Plan Ener Tx",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4da10d36d9ef7615c50d5d": {
+      "text": "PO N",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req606a645736d9ef4c33bba1be": {
+      "text": "Hitos",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4d9fe036d9ef7615c4a7d9": {
+      "text": "Carta SEC",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req60478dea36d9ef42935ee7d1": {
+      "text": "OTROS EO",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req5d4c9a3d36d9ef7615c07cfb": {
+      "text": "IT PES",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req606a67e336d9ef1a2254f2f7": {
+      "text": "IT PES (inv)",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4da16b36d9ef76172b5bc4": {
+      "text": "PO E",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req64e3afeb36d9ef23190ab0a4": {
+      "text": "Pruebas End to End",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4dab3f36d9ef7615c59207": {
+      "text": "SEO",
+      "state": "pendiente",
+      "is_container": false
+    }
+  },
+  "active_tasks": {
+    "req5d4d5ffe36d9ef7615c24383": {
+      "casilla": "RI",
+      "parent_group": "ANIT y PLANOS",
+      "sub_panels": [
+        "Listado de Requerimientos\n50%\n'REVISIÓN INGENIERÍA\nEncargado: Dpto. Estándares y Normativa\nI.1\nSolicitud de Revisión de la Ingeniería\nI.1\nRevisión de Ingeniería\n¿Qué estoy viendo?\n\nDescripción\n\nEl Coordinador revisa la Ingeniería de Diseño solicitada\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n31-08-2026\n\nDepende de\n\nSolicitud de Revisión de la Ingeniería\nHistorial de movimientos"
+      ]
+    }
+  },
+  "first_seen": {
+    "req5d4d5ffe36d9ef7615c24383|El Coordinador revisa la Ingeniería de Diseño solicitada": "2026-08-31T00:59:49.355477+00:00"
+  }
+}
