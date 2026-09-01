@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T23:41:25.907043+00:00",
+  "fetched_at": "2026-09-01T04:41:44.284633+00:00",
   "name": "BESS Elena",
   "correlativo": 5203,
   "completition_status": 88,
@@ -312,21 +312,21 @@
       "casilla": "PMax",
       "parent_group": "PARÁMETROS DE GENERACIÓN",
       "sub_panels": [
-        "Listado de Requerimientos\n50%\n'INFORME DE POTENCIA MÁXIMA EN UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.2\nCarta de envío al Coordinador del Informe Pmax\nI.2\nCarta de Admisibilidad Informe\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la carta y constancia de envío del sistema de correspondencia del Coordinador, mediante la cual envían el Informe de Potencia Máxima en unidades generadoras.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nSES\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n27-08-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n75%\n'INFORME DE POTENCIA MÁXIMA EN UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.2\nCarta de envío al Coordinador del Informe Pmax\nI.2\nCarta de Admisibilidad Informe\n¿Qué estoy viendo?\n\nDescripción\n\nCarta del Coordinador que indica la publicación del informe en el sitio web del Coordinador.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n22-09-2026\n\nDepende de\n\nCarta de envío al Coordinador del Informe Pmax\nHistorial de movimientos"
       ]
     },
     "req5d4da62e36d9ef76172b6c08": {
       "casilla": "PPyD",
       "parent_group": "PARÁMETROS DE GENERACIÓN",
       "sub_panels": [
-        "Listado de Requerimientos\n50%\n'INFORME DE PARÁMETROS PROCESOS DE PARTIDA Y DETENCIÓN DE UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.2\nCarta de envío al Coordinador del Informe PPyD\nI.2\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la carta y constancia de envío del sistema de correspondencia del Coordinador, mediante la cual envían el Informe de Parámetros procesos de Partida y Detención de unidades generadoras.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nSES\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n27-08-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n75%\n'INFORME DE PARÁMETROS PROCESOS DE PARTIDA Y DETENCIÓN DE UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.2\nCarta de envío al Coordinador del Informe PPyD\nI.2\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nCarta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n22-09-2026\n\nDepende de\n\nCarta de envío al Coordinador del Informe PPyD\nHistorial de movimientos"
       ]
     },
     "req5d4da56936d9ef7615c580e4": {
       "casilla": "MT",
       "parent_group": "PARÁMETROS DE GENERACIÓN",
       "sub_panels": [
-        "Listado de Requerimientos\n50%\n'INFORME DE DETERMINACIÓN DE MÍNIMOS TÉCNICOS EN UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.2\nCarta de envío al Coordinador del Informe MT\nI.2\nCarta de Admisibilidad Informe\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la carta y constancia de envío del sistema de correspondencia del Coordinador, mediante la cual envían el Informe de Determinación de Mínimos Técnicos en unidades generadoras\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nSES\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n27-08-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n75%\n'INFORME DE DETERMINACIÓN DE MÍNIMOS TÉCNICOS EN UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.2\nCarta de envío al Coordinador del Informe MT\nI.2\nCarta de Admisibilidad Informe\n¿Qué estoy viendo?\n\nDescripción\n\nCarta del Coordinador que indica la publicación del informe en el sitio web del Coordinador.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n22-09-2026\n\nDepende de\n\nCarta de envío al Coordinador del Informe MT\nHistorial de movimientos"
       ]
     },
     "req66a1293a36d9ef1e87f16cb7": {
@@ -362,9 +362,9 @@
     "req665604b236d9ef441648202b|El coordinador emitirá su aprobación u observaciones al documento": "2026-08-31T00:59:44.486964+00:00",
     "req5d4da87e36d9ef76183739c3|El Coordinador envía la revisión al informe de VMD": "2026-08-31T00:59:44.486976+00:00",
     "req6a15c8b636d9ef7d59878e93|Resultado de revisión del modelo EMT.": "2026-08-31T00:59:44.486997+00:00",
-    "req5d4da5d136d9ef761837315b|La Empresa Solicitante debe cargar la carta y constancia de envío del sistema de correspondencia del Coordinador, mediante la cual envían el Informe de Potencia Máxima en unidades generadoras.": "2026-08-31T00:59:44.487012+00:00",
-    "req5d4da62e36d9ef76172b6c08|La Empresa Solicitante debe cargar la carta y constancia de envío del sistema de correspondencia del Coordinador, mediante la cual envían el Informe de Parámetros procesos de Partida y Detención de unidades generadoras.": "2026-08-31T00:59:44.487023+00:00",
-    "req5d4da56936d9ef7615c580e4|La Empresa Solicitante debe cargar la carta y constancia de envío del sistema de correspondencia del Coordinador, mediante la cual envían el Informe de Determinación de Mínimos Técnicos en unidades generadoras": "2026-08-31T00:59:44.487033+00:00",
+    "req5d4da5d136d9ef761837315b|Carta del Coordinador que indica la publicación del informe en el sitio web del Coordinador.": "2026-09-01T04:41:44.285000+00:00",
+    "req5d4da62e36d9ef76172b6c08|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-09-01T04:41:44.285035+00:00",
+    "req5d4da56936d9ef7615c580e4|Carta del Coordinador que indica la publicación del informe en el sitio web del Coordinador.": "2026-09-01T04:41:44.285046+00:00",
     "req66a1293a36d9ef1e87f16cb7|La Empresa Solicitante debe cargar la carta y constancia de envío del sistema de correspondencia del Coordinador, mediante la cual envían el Informe Técnico de Verificación de Prestación de SSCC de la instalación.": "2026-08-31T00:59:44.487043+00:00",
     "req66aa9e5b36d9ef1e1621a92d|Carta del Coordinador que indica la admisibilidad de los ensayos presentados en el informe recibido.": "2026-08-31T00:59:44.487053+00:00",
     "req66aa9e7a36d9ef2cbc86bb1b|La Empresa Solicitante debe cargar la carta y constancia de envío del sistema de correspondencia del Coordinador, mediante la cual envían el Informe Técnico de Verificación de Prestación de SSCC de la instalación.": "2026-08-31T00:59:44.487063+00:00",
