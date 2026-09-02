@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T04:03:17.232622+00:00",
+  "fetched_at": "2026-09-02T08:34:34.717409+00:00",
   "name": "BESS Elena",
   "correlativo": 5203,
   "completition_status": 88,
@@ -291,7 +291,7 @@
       "casilla": "VMD",
       "parent_group": "OTROS EO",
       "sub_panels": [
-        "Listado de Requerimientos\n50%\n'VALIDACIÓN DE MODELO DINÁMICO\nEncargado: Departamento de Modelación y Aplicaciones EMS\nI.1\nRecepción de informe VMD\nI.1\nRevisión de VMD\n¿Qué estoy viendo?\n\nDescripción\n\nEl Coordinador envía la revisión al informe de VMD\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n20 días hábiles\n\nFecha límite\n\n01-09-2026\n\nDepende de\n\nRecepción de informe VMD\nHistorial de movimientos"
+        "Listado de Requerimientos\n50%\n'VALIDACIÓN DE MODELO DINÁMICO\nEncargado: Departamento de Modelación y Aplicaciones EMS\nI.2\nRecepción de informe VMD\nI.2\nRevisión de VMD\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nSES\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n03-09-2026\n\nHistorial de movimientos"
       ]
     },
     "req6a173dcf36d9ef4dfd2e68fc": {
@@ -353,7 +353,7 @@
   },
   "first_seen": {
     "req665604b236d9ef441648202b|El coordinador emitirá su aprobación u observaciones al documento": "2026-08-31T00:59:44.486964+00:00",
-    "req5d4da87e36d9ef76183739c3|El Coordinador envía la revisión al informe de VMD": "2026-08-31T00:59:44.486976+00:00",
+    "req5d4da87e36d9ef76183739c3|La Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico": "2026-09-02T08:34:34.717709+00:00",
     "req6a15c8b636d9ef7d59878e93|Resultado de revisión del modelo EMT.": "2026-08-31T00:59:44.486997+00:00",
     "req5d4da5d136d9ef761837315b|Carta del Coordinador que indica la publicación del informe en el sitio web del Coordinador.": "2026-09-01T04:41:44.285000+00:00",
     "req5d4da62e36d9ef76172b6c08|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-09-01T04:41:44.285035+00:00",

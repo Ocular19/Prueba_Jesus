@@ -40,5 +40,19 @@
         "fecha_limite": "-"
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-02T08:34:34.776164+00:00",
+    "changes": [
+      "'VMD': avanzó de etapa — ahora Esperando que Grenergy cargue un documento (fecha límite 03-09-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "VMD",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "03-09-2026"
+      }
+    ]
   }
 ]
