@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T22:31:02.227576+00:00",
+  "fetched_at": "2026-09-02T04:03:17.232622+00:00",
   "name": "BESS Elena",
   "correlativo": 5203,
   "completition_status": 88,
@@ -260,7 +260,7 @@
     },
     "req66aa9e5b36d9ef1e1621a92d": {
       "text": "CSF",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req66aa9e7a36d9ef2cbc86bb1b": {
@@ -336,13 +336,6 @@
         "Listado de Requerimientos\n50%\nCONTROL PRIMARIO DE FRECUENCIA\nEncargado: Departamento Conexiones\nI.2\nRecepción carta y constancia de envío de SSCC\nI.2\nRevisión de carta y constancia de envío de SSCC\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la carta y constancia de envío del sistema de correspondencia del Coordinador, mediante la cual envían el Informe Técnico de Verificación de Prestación de SSCC de la instalación.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nSES\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n25-08-2026\n\nHistorial de movimientos"
       ]
     },
-    "req66aa9e5b36d9ef1e1621a92d": {
-      "casilla": "CSF",
-      "parent_group": "SERVICIOS COMPLEMENTARIOS",
-      "sub_panels": [
-        "Listado de Requerimientos\n50%\nCONTROL SECUNDARIO DE FRECUENCIA\nEncargado: Departamento de Modelación y Aplicaciones EMS\nI.1\nRecepción carta y constancia de envío de SSCC\nI.1\nRevisión de carta y constancia de envío de SSCC\n¿Qué estoy viendo?\n\nDescripción\n\nCarta del Coordinador que indica la admisibilidad de los ensayos presentados en el informe recibido.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n10 días hábiles\n\nFecha límite\n\n02-09-2026\n\nDepende de\n\nRecepción carta y constancia de envío de SSCC\nHistorial de movimientos"
-      ]
-    },
     "req66aa9e7a36d9ef2cbc86bb1b": {
       "casilla": "CTF",
       "parent_group": "SERVICIOS COMPLEMENTARIOS",
@@ -366,7 +359,6 @@
     "req5d4da62e36d9ef76172b6c08|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-09-01T04:41:44.285035+00:00",
     "req5d4da56936d9ef7615c580e4|Carta del Coordinador que indica la publicación del informe en el sitio web del Coordinador.": "2026-09-01T04:41:44.285046+00:00",
     "req66a1293a36d9ef1e87f16cb7|La Empresa Solicitante debe cargar la carta y constancia de envío del sistema de correspondencia del Coordinador, mediante la cual envían el Informe Técnico de Verificación de Prestación de SSCC de la instalación.": "2026-08-31T00:59:44.487043+00:00",
-    "req66aa9e5b36d9ef1e1621a92d|Carta del Coordinador que indica la admisibilidad de los ensayos presentados en el informe recibido.": "2026-08-31T00:59:44.487053+00:00",
     "req66aa9e7a36d9ef2cbc86bb1b|La Empresa Solicitante debe cargar la carta y constancia de envío del sistema de correspondencia del Coordinador, mediante la cual envían el Informe Técnico de Verificación de Prestación de SSCC de la instalación.": "2026-08-31T00:59:44.487063+00:00",
     "req66aa9eb736d9ef1e8786a646|La Empresa Solicitante debe cargar la carta y constancia de envío del sistema de correspondencia del Coordinador, mediante la cual envían el Informe Técnico de Verificación de Prestación de SSCC de la instalación.": "2026-08-31T00:59:44.487072+00:00"
   }
