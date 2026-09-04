@@ -1,13 +1,5 @@
 [
   {
-    "timestamp": "2026-09-01T04:41:44.285777+00:00",
-    "changes": [
-      "'PMax': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 22-09-2026).",
-      "'PPyD': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 22-09-2026).",
-      "'MT': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 22-09-2026)."
-    ]
-  },
-  {
     "timestamp": "2026-09-02T04:03:17.234193+00:00",
     "changes": [
       "Casilla 'CSF' cambió de estado: en_curso -> completado"
