@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-07T09:06:03.959343+00:00",
+  "fetched_at": "2026-09-07T13:53:40.658014+00:00",
   "name": "BESS Elena",
   "correlativo": 5203,
-  "completition_status": 88,
+  "completition_status": 92,
   "completition_pes": 99,
   "service_estimate_date": "2026-03-01T00:00:00",
   "operative_estimate_date": "2026-09-30T00:00:00",
@@ -230,22 +230,22 @@
     },
     "req600f044436d9ef327f0765cb": {
       "text": "PARÁMETROS DE GENERACIÓN",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": true
     },
     "req5d4da5d136d9ef761837315b": {
       "text": "PMax",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req5d4da62e36d9ef76172b6c08": {
       "text": "PPyD",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req5d4da56936d9ef7615c580e4": {
       "text": "MT",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req66aa9b6636d9ef2cbc857076": {
@@ -308,27 +308,6 @@
         "Listado de Requerimientos\n50%\nMODELOS EMT (TRANSITORIOS ELECTROMAGNÉTICOS)\nEncargado: Departamento Conexiones\nI.1\nSolicitud de Revisión de Modelos EMT\nI.1\nResultado de Revisión de Modelos EMT\n¿Qué estoy viendo?\n\nDescripción\n\nResultado de revisión del modelo EMT.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n20 días hábiles\n\nFecha límite\n\n04-09-2026\n\nDepende de\n\nSolicitud de Revisión de Modelos EMT\nHistorial de movimientos"
       ]
     },
-    "req5d4da5d136d9ef761837315b": {
-      "casilla": "PMax",
-      "parent_group": "PARÁMETROS DE GENERACIÓN",
-      "sub_panels": [
-        "Listado de Requerimientos\n75%\n'INFORME DE POTENCIA MÁXIMA EN UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.2\nCarta de envío al Coordinador del Informe Pmax\nI.2\nCarta de Admisibilidad Informe\n¿Qué estoy viendo?\n\nDescripción\n\nCarta del Coordinador que indica la publicación del informe en el sitio web del Coordinador.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n22-09-2026\n\nDepende de\n\nCarta de envío al Coordinador del Informe Pmax\nHistorial de movimientos"
-      ]
-    },
-    "req5d4da62e36d9ef76172b6c08": {
-      "casilla": "PPyD",
-      "parent_group": "PARÁMETROS DE GENERACIÓN",
-      "sub_panels": [
-        "Listado de Requerimientos\n75%\n'INFORME DE PARÁMETROS PROCESOS DE PARTIDA Y DETENCIÓN DE UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.2\nCarta de envío al Coordinador del Informe PPyD\nI.2\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nCarta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n22-09-2026\n\nDepende de\n\nCarta de envío al Coordinador del Informe PPyD\nHistorial de movimientos"
-      ]
-    },
-    "req5d4da56936d9ef7615c580e4": {
-      "casilla": "MT",
-      "parent_group": "PARÁMETROS DE GENERACIÓN",
-      "sub_panels": [
-        "Listado de Requerimientos\n75%\n'INFORME DE DETERMINACIÓN DE MÍNIMOS TÉCNICOS EN UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.2\nCarta de envío al Coordinador del Informe MT\nI.2\nCarta de Admisibilidad Informe\n¿Qué estoy viendo?\n\nDescripción\n\nCarta del Coordinador que indica la publicación del informe en el sitio web del Coordinador.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n22-09-2026\n\nDepende de\n\nCarta de envío al Coordinador del Informe MT\nHistorial de movimientos"
-      ]
-    },
     "req66a1293a36d9ef1e87f16cb7": {
       "casilla": "CPF",
       "parent_group": "SERVICIOS COMPLEMENTARIOS",
@@ -355,9 +334,6 @@
     "req665604b236d9ef441648202b|El coordinador emitirá su aprobación u observaciones al documento": "2026-08-31T00:59:44.486964+00:00",
     "req5d4da87e36d9ef76183739c3|La Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico": "2026-09-02T08:34:34.717709+00:00",
     "req6a15c8b636d9ef7d59878e93|Resultado de revisión del modelo EMT.": "2026-08-31T00:59:44.486997+00:00",
-    "req5d4da5d136d9ef761837315b|Carta del Coordinador que indica la publicación del informe en el sitio web del Coordinador.": "2026-09-01T04:41:44.285000+00:00",
-    "req5d4da62e36d9ef76172b6c08|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-09-01T04:41:44.285035+00:00",
-    "req5d4da56936d9ef7615c580e4|Carta del Coordinador que indica la publicación del informe en el sitio web del Coordinador.": "2026-09-01T04:41:44.285046+00:00",
     "req66a1293a36d9ef1e87f16cb7|La Empresa Solicitante debe cargar la carta y constancia de envío del sistema de correspondencia del Coordinador, mediante la cual envían el Informe Técnico de Verificación de Prestación de SSCC de la instalación.": "2026-08-31T00:59:44.487043+00:00",
     "req66aa9e7a36d9ef2cbc86bb1b|La Empresa Solicitante debe cargar la carta y constancia de envío del sistema de correspondencia del Coordinador, mediante la cual envían el Informe Técnico de Verificación de Prestación de SSCC de la instalación.": "2026-08-31T00:59:44.487063+00:00",
     "req66aa9eb736d9ef1e8786a646|La Empresa Solicitante debe cargar la carta y constancia de envío del sistema de correspondencia del Coordinador, mediante la cual envían el Informe Técnico de Verificación de Prestación de SSCC de la instalación.": "2026-08-31T00:59:44.487072+00:00"
