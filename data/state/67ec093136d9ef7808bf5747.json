@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T19:13:04.439249+00:00",
+  "fetched_at": "2026-09-09T22:25:00.952704+00:00",
   "name": "BESS Elena",
   "correlativo": 5203,
   "completition_status": 93,
@@ -284,7 +284,7 @@
       "casilla": "VMD",
       "parent_group": "OTROS EO",
       "sub_panels": [
-        "Listado de Requerimientos\n50%\n'VALIDACIÓN DE MODELO DINÁMICO\nEncargado: Departamento de Modelación y Aplicaciones EMS\nI.2\nRecepción de informe VMD\nI.2\nRevisión de VMD\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nSES\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n03-09-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n75%\n'VALIDACIÓN DE MODELO DINÁMICO\nEncargado: Departamento de Modelación y Aplicaciones EMS\nI.2\nRecepción de informe VMD\nI.2\nRevisión de VMD\n¿Qué estoy viendo?\n\nDescripción\n\nEl Coordinador envía la revisión al informe de VMD\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n20 días hábiles\n\nFecha límite\n\n08-10-2026\n\nDepende de\n\nRecepción de informe VMD\nHistorial de movimientos"
       ]
     },
     "req6a173dcf36d9ef4dfd2e68fc": {
@@ -324,7 +324,7 @@
     }
   },
   "first_seen": {
-    "req5d4da87e36d9ef76183739c3|La Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico": "2026-09-02T08:34:34.717709+00:00",
+    "req5d4da87e36d9ef76183739c3|El Coordinador envía la revisión al informe de VMD": "2026-09-09T22:25:00.952921+00:00",
     "req6a15c8b636d9ef7d59878e93|Carga de carta de solicitud de revisión de Modelo OEM en EMTP (software de simulación de referencia utilizado por el Coordinador), enviado previamente por sistema de correspondencia (Macro materia: Estudios e Informes / Micro materia: Modelos EMTP) con carácter confidencial. Información de referencia: Título 5 AT-IBR 2026; Procedimiento Interno de Modelación y Homologación de Instalaciones del SEN; Guía Técnica de Aplicación Modelo EMT": "2026-09-07T22:42:20.467178+00:00",
     "req66a1293a36d9ef1e87f16cb7|La Empresa Solicitante debe cargar la carta y constancia de envío del sistema de correspondencia del Coordinador, mediante la cual envían el Informe Técnico de Verificación de Prestación de SSCC de la instalación.": "2026-08-31T00:59:44.487043+00:00",
     "req66aa9e7a36d9ef2cbc86bb1b|La Empresa Solicitante debe cargar la carta y constancia de envío del sistema de correspondencia del Coordinador, mediante la cual envían el Informe Técnico de Verificación de Prestación de SSCC de la instalación.": "2026-08-31T00:59:44.487063+00:00",
