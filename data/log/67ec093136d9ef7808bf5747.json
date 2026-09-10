@@ -127,5 +127,26 @@
         "fecha_limite": "08-10-2026"
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-10T04:12:44.341666+00:00",
+    "changes": [
+      "'CPF': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 24-09-2026).",
+      "'CTF': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 24-09-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "CPF",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "24-09-2026"
+      },
+      {
+        "casilla": "CTF",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "24-09-2026"
+      }
+    ]
   }
 ]

@@ -27,5 +27,12 @@
     "changes": [
       "'VMD': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 08-10-2026)."
     ]
+  },
+  {
+    "timestamp": "2026-09-10T04:12:44.341529+00:00",
+    "changes": [
+      "'CPF': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 24-09-2026).",
+      "'CTF': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 24-09-2026)."
+    ]
   }
 ]
