@@ -1,13 +1,5 @@
 [
   {
-    "timestamp": "2026-09-07T19:49:12.884326+00:00",
-    "changes": [
-      "Casilla 'Plan Ener Gx' cambió de estado: en_curso -> completado",
-      "Avance general del proyecto: 92% → 93%.",
-      "Avance de requisitos para inicio de PES: 99% → 100%."
-    ]
-  },
-  {
     "timestamp": "2026-09-07T22:42:20.467828+00:00",
     "changes": [
       "'Modelos EMT': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 08-09-2026)."
