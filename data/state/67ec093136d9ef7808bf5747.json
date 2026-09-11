@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T12:24:59.261234+00:00",
+  "fetched_at": "2026-09-11T15:53:37.687133+00:00",
   "name": "BESS Elena",
   "correlativo": 5203,
   "completition_status": 92,
@@ -284,7 +284,7 @@
       "casilla": "Plan Ener Gx",
       "parent_group": "OTROS PES",
       "sub_panels": [
-        "Listado de Requerimientos\n80%\nPLAN DE ENERGIZACIÓN GENERACIÓN\nEncargado: Departamento Conexiones\nI.5\nRecepción plan de energización Generación\nI.5\nRevisión Plan de Energización Generación\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nSES\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n11-09-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n90%\nPLAN DE ENERGIZACIÓN GENERACIÓN\nEncargado: Departamento Conexiones\nI.5\nRecepción plan de energización Generación\nI.5\nRevisión Plan de Energización Generación\n¿Qué estoy viendo?\n\nDescripción\n\nEl coordinador emitirá su aprobación u observaciones al documento\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n10 días hábiles\n\nFecha límite\n\n28-09-2026\n\nDepende de\n\nRecepción plan de energización Generación\nHistorial de movimientos"
       ]
     },
     "req5d4da87e36d9ef76183739c3": {
@@ -326,16 +326,16 @@
       "casilla": "CT",
       "parent_group": "SERVICIOS COMPLEMENTARIOS",
       "sub_panels": [
-        "Listado de Requerimientos\n50%\nCONTROL DE TENSIÓN\nEncargado: Departamento Conexiones\nI.2\nRecepción carta y constancia de envío de SSCC\nI.2\nRevisión de carta y constancia de envío de SSCC\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la carta y constancia de envío del sistema de correspondencia del Coordinador, mediante la cual envían el Informe Técnico de Verificación de Prestación de SSCC de la instalación.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nSES\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n25-08-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n75%\nCONTROL DE TENSIÓN\nEncargado: Departamento Conexiones\nI.2\nRecepción carta y constancia de envío de SSCC\nI.2\nRevisión de carta y constancia de envío de SSCC\n¿Qué estoy viendo?\n\nDescripción\n\nCarta del Coordinador que indica la admisibilidad de los ensayos presentados en el informe recibido.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n10 días hábiles\n\nFecha límite\n\n28-09-2026\n\nDepende de\n\nRecepción carta y constancia de envío de SSCC\nHistorial de movimientos"
       ]
     }
   },
   "first_seen": {
-    "req665604b236d9ef441648202b|La Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.": "2026-09-10T19:03:57.291942+00:00",
+    "req665604b236d9ef441648202b|El coordinador emitirá su aprobación u observaciones al documento": "2026-09-11T15:53:37.687427+00:00",
     "req5d4da87e36d9ef76183739c3|El Coordinador envía la revisión al informe de VMD": "2026-09-09T22:25:00.952921+00:00",
     "req6a15c8b636d9ef7d59878e93|Carga de carta de solicitud de revisión de Modelo OEM en EMTP (software de simulación de referencia utilizado por el Coordinador), enviado previamente por sistema de correspondencia (Macro materia: Estudios e Informes / Micro materia: Modelos EMTP) con carácter confidencial. Información de referencia: Título 5 AT-IBR 2026; Procedimiento Interno de Modelación y Homologación de Instalaciones del SEN; Guía Técnica de Aplicación Modelo EMT": "2026-09-07T22:42:20.467178+00:00",
     "req66a1293a36d9ef1e87f16cb7|Carta del Coordinador que indica la admisibilidad de los ensayos presentados en el informe recibido.": "2026-09-10T04:12:44.340996+00:00",
     "req66aa9e7a36d9ef2cbc86bb1b|Carta del Coordinador que indica la admisibilidad de los ensayos presentados en el informe recibido.": "2026-09-10T04:12:44.341004+00:00",
-    "req66aa9eb736d9ef1e8786a646|La Empresa Solicitante debe cargar la carta y constancia de envío del sistema de correspondencia del Coordinador, mediante la cual envían el Informe Técnico de Verificación de Prestación de SSCC de la instalación.": "2026-08-31T00:59:44.487072+00:00"
+    "req66aa9eb736d9ef1e8786a646|Carta del Coordinador que indica la admisibilidad de los ensayos presentados en el informe recibido.": "2026-09-11T15:53:37.687500+00:00"
   }
 }
