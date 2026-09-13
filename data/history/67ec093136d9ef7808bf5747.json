@@ -1,18 +1,5 @@
 [
   {
-    "timestamp": "2026-09-09T22:25:00.953495+00:00",
-    "changes": [
-      "'VMD': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 08-10-2026)."
-    ]
-  },
-  {
-    "timestamp": "2026-09-10T04:12:44.341529+00:00",
-    "changes": [
-      "'CPF': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 24-09-2026).",
-      "'CTF': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 24-09-2026)."
-    ]
-  },
-  {
     "timestamp": "2026-09-10T19:03:57.292649+00:00",
     "changes": [
       "Casilla 'Plan Ener Gx' cambió de estado: completado -> en_curso",
