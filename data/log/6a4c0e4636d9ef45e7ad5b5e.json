@@ -12,5 +12,19 @@
         "fecha_limite": "01-09-2026"
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-14T14:31:12.111743+00:00",
+    "changes": [
+      "'RI': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 29-09-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "RI",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "29-09-2026"
+      }
+    ]
   }
 ]
