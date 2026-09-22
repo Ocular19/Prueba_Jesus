@@ -250,5 +250,19 @@
         "fecha_limite": "-"
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-22T22:50:58.669646+00:00",
+    "changes": [
+      "'VMD': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 21-10-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "VMD",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "21-10-2026"
+      }
+    ]
   }
 ]
