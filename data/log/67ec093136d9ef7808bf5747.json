@@ -264,5 +264,27 @@
         "fecha_limite": "21-10-2026"
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-24T16:32:19.197054+00:00",
+    "changes": [
+      "Casilla 'REQUERIMIENTOS DE CONVERTIDORES' cambió de estado: en_curso -> completado",
+      "Casilla 'Modelos EMT' cambió de estado: en_curso -> completado",
+      "Avance general del proyecto: 95% → 96%."
+    ],
+    "alerts": [
+      {
+        "casilla": "REQUERIMIENTOS DE CONVERTIDORES",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "Modelos EMT",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      }
+    ]
   }
 ]

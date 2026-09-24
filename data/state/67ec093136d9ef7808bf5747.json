@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-24T12:57:51.654182+00:00",
+  "fetched_at": "2026-09-24T16:32:19.195410+00:00",
   "name": "BESS Elena",
   "correlativo": 5203,
-  "completition_status": 95,
+  "completition_status": 96,
   "completition_pes": 100,
   "service_estimate_date": "2026-03-01T00:00:00",
   "operative_estimate_date": "2026-09-30T00:00:00",
@@ -220,12 +220,12 @@
     },
     "req6a173dcf36d9ef4dfd2e68fc": {
       "text": "REQUERIMIENTOS DE CONVERTIDORES",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req6a15c8b636d9ef7d59878e93": {
       "text": "Modelos EMT",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req600f044436d9ef327f0765cb": {
@@ -286,24 +286,9 @@
       "sub_panels": [
         "Listado de Requerimientos\n83%\n'VALIDACIÓN DE MODELO DINÁMICO\nEncargado: Departamento de Modelación y Aplicaciones EMS\nI.3\nRecepción de informe VMD\nI.3\nRevisión de VMD\n¿Qué estoy viendo?\n\nDescripción\n\nEl Coordinador envía la revisión al informe de VMD\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n20 días hábiles\n\nFecha límite\n\n21-10-2026\n\nDepende de\n\nRecepción de informe VMD\nHistorial de movimientos"
       ]
-    },
-    "req6a173dcf36d9ef4dfd2e68fc": {
-      "casilla": "REQUERIMIENTOS DE CONVERTIDORES",
-      "parent_group": null,
-      "sub_panels": [
-        "Listado de Requerimientos\n0%\n*REQUERIMIENTOS DE CONVERTIDORES\nEncargado: Departamento Conexiones\nI.1\nGrupo de Requerimientos\n¿Qué estoy viendo?\n\nDescripción\n\nGrupo de Requerimientos\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n150 días hábiles\n\nFecha límite\n\n15-02-2027\n\nHistorial de movimientos"
-      ]
-    },
-    "req6a15c8b636d9ef7d59878e93": {
-      "casilla": "Modelos EMT",
-      "parent_group": null,
-      "sub_panels": [
-        "Listado de Requerimientos\n50%\nMODELOS EMT (TRANSITORIOS ELECTROMAGNÉTICOS)\nEncargado: Departamento Conexiones\nI.2\nSolicitud de Revisión de Modelos EMT\nI.2\nResultado de Revisión de Modelos EMT\n¿Qué estoy viendo?\n\nDescripción\n\nCarga de carta de solicitud de revisión de Modelo OEM en EMTP (software de simulación de referencia utilizado por el Coordinador), enviado previamente por sistema de correspondencia (Macro materia: Estudios e Informes / Micro materia: Modelos EMTP) con carácter confidencial. Información de referencia: Título 5 AT-IBR 2026; Procedimiento Interno de Modelación y Homologación de Instalaciones del SEN; Guía Técnica de Aplicación Modelo EMT\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nSES\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n08-09-2026\n\nHistorial de movimientos"
-      ]
     }
   },
   "first_seen": {
-    "req5d4da87e36d9ef76183739c3|El Coordinador envía la revisión al informe de VMD": "2026-09-22T22:50:58.618460+00:00",
-    "req6a15c8b636d9ef7d59878e93|Carga de carta de solicitud de revisión de Modelo OEM en EMTP (software de simulación de referencia utilizado por el Coordinador), enviado previamente por sistema de correspondencia (Macro materia: Estudios e Informes / Micro materia: Modelos EMTP) con carácter confidencial. Información de referencia: Título 5 AT-IBR 2026; Procedimiento Interno de Modelación y Homologación de Instalaciones del SEN; Guía Técnica de Aplicación Modelo EMT": "2026-09-07T22:42:20.467178+00:00"
+    "req5d4da87e36d9ef76183739c3|El Coordinador envía la revisión al informe de VMD": "2026-09-22T22:50:58.618460+00:00"
   }
 }
