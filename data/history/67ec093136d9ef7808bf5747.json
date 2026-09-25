@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-09-22T22:50:58.669208+00:00",
-    "changes": [
-      "'VMD': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 21-10-2026)."
-    ]
-  },
-  {
     "timestamp": "2026-09-24T16:32:19.196331+00:00",
     "changes": [
       "Casilla 'REQUERIMIENTOS DE CONVERTIDORES' cambió de estado: en_curso -> completado",
