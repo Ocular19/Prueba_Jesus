@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-25T16:35:15.122513+00:00",
+  "fetched_at": "2026-09-25T19:57:38.123298+00:00",
   "name": "BESS Elena",
   "correlativo": 5203,
-  "completition_status": 96,
+  "completition_status": 99,
   "completition_pes": 100,
   "service_estimate_date": "2026-03-01T00:00:00",
   "operative_estimate_date": "2026-09-30T00:00:00",
@@ -215,7 +215,7 @@
     },
     "req5d4da87e36d9ef76183739c3": {
       "text": "VMD",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req6a173dcf36d9ef4dfd2e68fc": {
@@ -279,16 +279,6 @@
       "is_container": false
     }
   },
-  "active_tasks": {
-    "req5d4da87e36d9ef76183739c3": {
-      "casilla": "VMD",
-      "parent_group": "OTROS EO",
-      "sub_panels": [
-        "Listado de Requerimientos\n83%\n'VALIDACIÓN DE MODELO DINÁMICO\nEncargado: Departamento de Modelación y Aplicaciones EMS\nI.3\nRecepción de informe VMD\nI.3\nRevisión de VMD\n¿Qué estoy viendo?\n\nDescripción\n\nEl Coordinador envía la revisión al informe de VMD\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n20 días hábiles\n\nFecha límite\n\n21-10-2026\n\nDepende de\n\nRecepción de informe VMD\nHistorial de movimientos"
-      ]
-    }
-  },
-  "first_seen": {
-    "req5d4da87e36d9ef76183739c3|El Coordinador envía la revisión al informe de VMD": "2026-09-22T22:50:58.618460+00:00"
-  }
+  "active_tasks": {},
+  "first_seen": {}
 }
