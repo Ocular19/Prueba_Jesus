@@ -322,5 +322,19 @@
         "fecha_limite": "28-09-2026"
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-28T16:09:32.465691+00:00",
+    "changes": [
+      "'SEO': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 08-10-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "SEO",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "08-10-2026"
+      }
+    ]
   }
 ]

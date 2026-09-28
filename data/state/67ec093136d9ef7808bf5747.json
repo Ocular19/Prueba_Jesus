@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-28T10:42:01.204135+00:00",
+  "fetched_at": "2026-09-28T16:09:32.462306+00:00",
   "name": "BESS Elena",
   "correlativo": 5203,
   "completition_status": 99,
@@ -284,11 +284,11 @@
       "casilla": "SEO",
       "parent_group": null,
       "sub_panels": [
-        "Listado de Requerimientos\n0%\nSOLICITUD DE ENTRADA EN OPERACIÓN.\nEncargado: Departamento Conexiones\nI.1\nSolicitud de Entrada en Operación.\nI.1\nCarta de Entrada en Operación\n¿Qué estoy viendo?\n\nDescripción\n\nCarta de Solicitud de Entrada en Operación, incluyendo la Declaración Jurada del cumplimiento de las exigencias establecidas en la normativa vigente, de acuerdo al Artículo 28 del Anexo Técnico de Requisitos Técnicos Mínimos. La fecha de EO será la fecha de aprobación del último pendiente para revisión del Coordinador.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nSES\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n28-09-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n50%\nSOLICITUD DE ENTRADA EN OPERACIÓN.\nEncargado: Departamento Conexiones\nI.1\nSolicitud de Entrada en Operación.\nI.1\nCarta de Entrada en Operación\n¿Qué estoy viendo?\n\nDescripción\n\nCarta de Respuesta a la Solicitud de Entrada en Operación\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n8 días hábiles\n\nFecha límite\n\n08-10-2026\n\nDepende de\n\nSolicitud de Entrada en Operación.\nHistorial de movimientos"
       ]
     }
   },
   "first_seen": {
-    "req6596ce4a36d9ef6d386a9702|Carta de Solicitud de Entrada en Operación, incluyendo la Declaración Jurada del cumplimiento de las exigencias establecidas en la normativa vigente, de acuerdo al Artículo 28 del Anexo Técnico de Requisitos Técnicos Mínimos. La fecha de EO será la fecha de aprobación del último pendiente para revisión del Coordinador.": "2026-09-27T22:55:13.589434+00:00"
+    "req6596ce4a36d9ef6d386a9702|Carta de Respuesta a la Solicitud de Entrada en Operación": "2026-09-28T16:09:32.462444+00:00"
   }
 }
