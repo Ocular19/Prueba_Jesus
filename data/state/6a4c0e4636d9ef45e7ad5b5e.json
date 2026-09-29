@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-28T21:47:49.200872+00:00",
+  "fetched_at": "2026-09-29T00:18:06.157316+00:00",
   "name": "Ampliación en S/E Kimal 220 kV (D_04/24) - Etapa 2",
   "correlativo": 5814,
-  "completition_status": 14,
-  "completition_pes": 16,
+  "completition_status": 16,
+  "completition_pes": 18,
   "service_estimate_date": "2027-12-23T00:00:00",
   "operative_estimate_date": "2028-05-17T00:00:00",
   "reception_date": "2026-07-02T00:00:00",
@@ -30,7 +30,7 @@
     },
     "req5d4d5ffe36d9ef7615c24383": {
       "text": "RI",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req60ad0d0d36d9ef44f12350ef": {
@@ -219,16 +219,6 @@
       "is_container": false
     }
   },
-  "active_tasks": {
-    "req5d4d5ffe36d9ef7615c24383": {
-      "casilla": "RI",
-      "parent_group": "ANIT y PLANOS",
-      "sub_panels": [
-        "Listado de Requerimientos\n75%\n'REVISIÓN INGENIERÍA\nEncargado: Dpto. Estándares y Normativa\nI.2\nSolicitud de Revisión de la Ingeniería\nI.2\nRevisión de Ingeniería\n¿Qué estoy viendo?\n\nDescripción\n\nEl Coordinador revisa la Ingeniería de Diseño solicitada\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n10 días hábiles\n\nFecha límite\n\n29-09-2026\n\nDepende de\n\nSolicitud de Revisión de la Ingeniería\nHistorial de movimientos"
-      ]
-    }
-  },
-  "first_seen": {
-    "req5d4d5ffe36d9ef7615c24383|El Coordinador revisa la Ingeniería de Diseño solicitada": "2026-09-14T14:31:12.111198+00:00"
-  }
+  "active_tasks": {},
+  "first_seen": {}
 }
