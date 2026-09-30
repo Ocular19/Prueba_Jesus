@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-09-27T22:55:13.590113+00:00",
-    "changes": [
-      "Casilla 'SEO' cambió de estado: pendiente -> en_curso",
-      "'SEO': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 28-09-2026)."
-    ]
-  },
-  {
     "timestamp": "2026-09-28T16:09:32.465290+00:00",
     "changes": [
       "'SEO': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 08-10-2026)."
