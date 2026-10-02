@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-02T10:22:40.807592+00:00",
+  "fetched_at": "2026-10-02T14:14:17.712964+00:00",
   "name": "Ampliación en S/E Kimal 220 kV (D_04/24) - Etapa 2",
   "correlativo": 5814,
   "completition_status": 16,
@@ -15,7 +15,7 @@
     },
     "req6088396036d9ef6adef5612c": {
       "text": "ANIT y PLANOS",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": true
     },
     "req5d4c907f36d9ef7615bf7a08": {
