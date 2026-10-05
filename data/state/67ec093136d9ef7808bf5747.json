@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-05T16:30:51.412242+00:00",
+  "fetched_at": "2026-10-05T20:24:27.213907+00:00",
   "name": "BESS Elena",
   "correlativo": 5203,
-  "completition_status": 99,
+  "completition_status": 100,
   "completition_pes": 100,
   "service_estimate_date": "2026-03-01T00:00:00",
   "operative_estimate_date": "2026-09-30T00:00:00",
@@ -275,20 +275,10 @@
     },
     "req6596ce4a36d9ef6d386a9702": {
       "text": "SEO",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     }
   },
-  "active_tasks": {
-    "req6596ce4a36d9ef6d386a9702": {
-      "casilla": "SEO",
-      "parent_group": null,
-      "sub_panels": [
-        "Listado de Requerimientos\n50%\nSOLICITUD DE ENTRADA EN OPERACIÓN.\nEncargado: Departamento Conexiones\nI.1\nSolicitud de Entrada en Operación.\nI.1\nCarta de Entrada en Operación\n¿Qué estoy viendo?\n\nDescripción\n\nCarta de Respuesta a la Solicitud de Entrada en Operación\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n8 días hábiles\n\nFecha límite\n\n08-10-2026\n\nDepende de\n\nSolicitud de Entrada en Operación.\nHistorial de movimientos"
-      ]
-    }
-  },
-  "first_seen": {
-    "req6596ce4a36d9ef6d386a9702|Carta de Respuesta a la Solicitud de Entrada en Operación": "2026-09-28T16:09:32.462444+00:00"
-  }
+  "active_tasks": {},
+  "first_seen": {}
 }
