@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "timestamp": "2026-10-07T21:11:08.674749+00:00",
+    "changes": [
+      "Casilla 'IT E' cambió de estado: pendiente -> en_curso",
+      "Casilla 'Prot E' cambió de estado: pendiente -> en_curso",
+      "'IT E': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 29-10-2026).",
+      "'Prot E': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 08-10-2026)."
+    ]
+  }
+]

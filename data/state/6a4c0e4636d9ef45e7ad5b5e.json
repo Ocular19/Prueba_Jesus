@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T18:27:31.824721+00:00",
+  "fetched_at": "2026-10-07T21:11:08.674065+00:00",
   "name": "Ampliación en S/E Kimal 220 kV (D_04/24) - Etapa 2",
   "correlativo": 5814,
   "completition_status": 16,
@@ -40,17 +40,17 @@
     },
     "req60ca060536d9ef1ee6b43b49": {
       "text": "INFORMACIÓN TÉCNICA",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": true
     },
     "req60ca075236d9ef2b9316e203": {
       "text": "INFOTÉCNICA PARA ESTUDIOS",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": true
     },
     "req5d4c9a0536d9ef7615c07b9a": {
       "text": "IT E",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req663e555536d9ef0e1713e378": {
@@ -100,12 +100,12 @@
     },
     "req5d4d852636d9ef76183532d7": {
       "text": "SCADA Y MEDIDAS",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": true
     },
     "req5d4d8b9e36d9ef76163cb2cf": {
       "text": "SITR",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": true
     },
     "req607664e136d9ef3500287df3": {
@@ -130,7 +130,7 @@
     },
     "req5d4d8acf36d9ef761835aef5": {
       "text": "EME",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": true
     },
     "req6076676d36d9ef7d11ba2199": {
@@ -150,7 +150,7 @@
     },
     "req5d4d985736d9ef76163d61b6": {
       "text": "OTROS PES",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": true
     },
     "req5d4da28736d9ef7615c57207": {
@@ -160,7 +160,7 @@
     },
     "req5d4da05136d9ef7615c4d9bd": {
       "text": "Prot E",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req5d4da0b036d9ef76163e2e6d": {
@@ -219,6 +219,24 @@
       "is_container": false
     }
   },
-  "active_tasks": {},
-  "first_seen": {}
+  "active_tasks": {
+    "req5d4c9a0536d9ef7615c07b9a": {
+      "casilla": "IT E",
+      "parent_group": "INFOTÉCNICA PARA ESTUDIOS",
+      "sub_panels": [
+        "Listado de Requerimientos\n50%\n'INFOTÉCNICA PARA ESTUDIOS\nEncargado: DAIT\nI.1\nSolicitud de revisión de información técnica\nI.1\nRevisión de Información Técnica\n¿Qué estoy viendo?\n\nDescripción\n\nRevisión de información técnica cargada en la plataforma de IT\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n29-10-2026\n\nDepende de\n\nSolicitud de revisión de información técnica\nHistorial de movimientos"
+      ]
+    },
+    "req5d4da05136d9ef7615c4d9bd": {
+      "casilla": "Prot E",
+      "parent_group": "OTROS PES",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'PROTOCOLOS SAT EQUIPOS PRIMARIOS\nEncargado: DAOP\nI.1\nSolicitud de revisión de Protocolos SAT\nI.1\nRevisión de Protocolos SAT\n¿Qué estoy viendo?\n\nDescripción\n\nProtocolos de pruebas SAT a equipos primarios\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nSES\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n08-10-2026\n\nHistorial de movimientos"
+      ]
+    }
+  },
+  "first_seen": {
+    "req5d4c9a0536d9ef7615c07b9a|Revisión de información técnica cargada en la plataforma de IT": "2026-10-07T21:11:08.674171+00:00",
+    "req5d4da05136d9ef7615c4d9bd|Protocolos de pruebas SAT a equipos primarios": "2026-10-07T21:11:08.674178+00:00"
+  }
 }

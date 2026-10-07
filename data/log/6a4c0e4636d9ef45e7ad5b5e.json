@@ -1,19 +1,5 @@
 [
   {
-    "timestamp": "2026-08-31T18:49:15.645454+00:00",
-    "changes": [
-      "'RI': avanzó de etapa — ahora Esperando que Grenergy cargue un documento (fecha límite 01-09-2026)."
-    ],
-    "alerts": [
-      {
-        "casilla": "RI",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "01-09-2026"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-14T14:31:12.111743+00:00",
     "changes": [
       "'RI': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 29-09-2026)."
@@ -40,6 +26,41 @@
         "evento": "Cambió de estado (en_curso → completado)",
         "quien": "Sin acción pendiente (completada)",
         "fecha_limite": "-"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-07T21:11:08.675023+00:00",
+    "changes": [
+      "Casilla 'IT E' cambió de estado: pendiente -> en_curso",
+      "Casilla 'Prot E' cambió de estado: pendiente -> en_curso",
+      "'IT E': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 29-10-2026).",
+      "'Prot E': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 08-10-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "IT E",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "29-10-2026"
+      },
+      {
+        "casilla": "Prot E",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "08-10-2026"
+      },
+      {
+        "casilla": "IT E",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "29-10-2026"
+      },
+      {
+        "casilla": "Prot E",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "08-10-2026"
       }
     ]
   }
