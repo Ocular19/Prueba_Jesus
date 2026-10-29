@@ -1,19 +1,5 @@
 [
   {
-    "timestamp": "2026-09-14T14:31:12.111743+00:00",
-    "changes": [
-      "'RI': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 29-09-2026)."
-    ],
-    "alerts": [
-      {
-        "casilla": "RI",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "29-09-2026"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-29T00:18:06.158245+00:00",
     "changes": [
       "Casilla 'RI' cambió de estado: en_curso -> completado",
@@ -61,6 +47,20 @@
         "evento": "Nuevo pendiente",
         "quien": "Esperando que Grenergy cargue un documento",
         "fecha_limite": "08-10-2026"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-29T18:02:35.157557+00:00",
+    "changes": [
+      "'IT E': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 30-10-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "IT E",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "30-10-2026"
       }
     ]
   }
