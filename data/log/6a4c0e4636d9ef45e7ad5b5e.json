@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "2026-10-07T21:11:08.675023+00:00",
-    "changes": [
-      "Casilla 'IT E' cambió de estado: pendiente -> en_curso",
-      "Casilla 'Prot E' cambió de estado: pendiente -> en_curso",
-      "'IT E': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 29-10-2026).",
-      "'Prot E': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 08-10-2026)."
-    ],
-    "alerts": [
-      {
-        "casilla": "IT E",
-        "evento": "Cambió de estado (pendiente → en_curso)",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "29-10-2026"
-      },
-      {
-        "casilla": "Prot E",
-        "evento": "Cambió de estado (pendiente → en_curso)",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "08-10-2026"
-      },
-      {
-        "casilla": "IT E",
-        "evento": "Nuevo pendiente",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "29-10-2026"
-      },
-      {
-        "casilla": "Prot E",
-        "evento": "Nuevo pendiente",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "08-10-2026"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-29T18:02:35.157557+00:00",
     "changes": [
       "'IT E': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 30-10-2026)."
@@ -59,6 +24,22 @@
         "evento": "Avanzó de etapa",
         "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
         "fecha_limite": "24-11-2026"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-24T19:10:10.813821+00:00",
+    "changes": [
+      "Casilla 'IT E' cambió de estado: en_curso -> completado",
+      "Avance general del proyecto: 16% → 17%.",
+      "Avance de requisitos para inicio de PES: 18% → 19%."
+    ],
+    "alerts": [
+      {
+        "casilla": "IT E",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
       }
     ]
   }
