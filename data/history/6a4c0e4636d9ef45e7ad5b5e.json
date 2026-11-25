@@ -6,5 +6,22 @@
       "Avance general del proyecto: 16% → 17%.",
       "Avance de requisitos para inicio de PES: 18% → 19%."
     ]
+  },
+  {
+    "timestamp": "2026-11-25T13:59:39.835329+00:00",
+    "changes": [
+      "Casilla 'ECAP' cambió de estado: pendiente -> en_curso",
+      "Casilla 'ECB' cambió de estado: pendiente -> en_curso",
+      "Casilla 'ECC' cambió de estado: pendiente -> en_curso",
+      "Casilla 'EMT' cambió de estado: pendiente -> en_curso",
+      "Casilla 'GM' cambió de estado: pendiente -> en_curso",
+      "'ECAP': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 26-11-2026).",
+      "'ECB': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 26-11-2026).",
+      "'ECC': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 26-11-2026).",
+      "'EMT': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 26-11-2026).",
+      "'GM': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 26-11-2026).",
+      "Avance general del proyecto: 17% → 18%.",
+      "Avance de requisitos para inicio de PES: 19% → 21%."
+    ]
   }
 ]

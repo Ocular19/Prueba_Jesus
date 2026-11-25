@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-25T08:00:22.758697+00:00",
+  "fetched_at": "2026-11-25T13:59:39.834416+00:00",
   "name": "Ampliación en S/E Kimal 220 kV (D_04/24) - Etapa 2",
   "correlativo": 5814,
-  "completition_status": 17,
-  "completition_pes": 19,
+  "completition_status": 18,
+  "completition_pes": 21,
   "service_estimate_date": "2027-12-23T00:00:00",
   "operative_estimate_date": "2028-05-17T00:00:00",
   "reception_date": "2026-07-02T00:00:00",
@@ -40,12 +40,12 @@
     },
     "req60ca060536d9ef1ee6b43b49": {
       "text": "INFORMACIÓN TÉCNICA",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": true
     },
     "req60ca075236d9ef2b9316e203": {
       "text": "INFOTÉCNICA PARA ESTUDIOS",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": true
     },
     "req5d4c9a0536d9ef7615c07b9a": {
@@ -75,27 +75,27 @@
     },
     "req60ca06b836d9ef38d7c4be4e": {
       "text": "ESTUDIOS DE INTERCONEXIÓN",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": true
     },
     "req5d4d62dd36d9ef761727f012": {
       "text": "ECAP",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req5d4d815e36d9ef7615c337b6": {
       "text": "ECB",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req5d4d811736d9ef76163c4333": {
       "text": "ECC",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req5d4d821236d9ef7615c3554c": {
       "text": "EMT",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req5d4d852636d9ef76183532d7": {
@@ -155,7 +155,7 @@
     },
     "req5d4da28736d9ef7615c57207": {
       "text": "GM",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req5d4da05136d9ef7615c4d9bd": {
@@ -220,6 +220,41 @@
     }
   },
   "active_tasks": {
+    "req5d4d62dd36d9ef761727f012": {
+      "casilla": "ECAP",
+      "parent_group": "ESTUDIOS DE INTERCONEXIÓN",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'ESTUDIO DE COORDINACIÓN Y AJUSTE DE PROTECCIONES\nEncargado: DAOP\nI.1\nRecepción de estudio\nI.1\nEnvío de estudio a Empresa Involucrada\nI.1\nObservaciones al estudio de la Empresa Involucrada\nI.1\nRevisión de estudio\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante adjunta un archivo comprimido que incluye: Estudio + Base de Datos + Minuta de respuesta a observaciones\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nSES\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n26-11-2026\n\nHistorial de movimientos"
+      ]
+    },
+    "req5d4d815e36d9ef7615c337b6": {
+      "casilla": "ECB",
+      "parent_group": "ESTUDIOS DE INTERCONEXIÓN",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'ESTUDIO DE CAPACIDAD DE BARRAS\nEncargado: Dpto. Estándares y Normativa\nI.1\nRecepción de estudio\nI.1\nEnvío de estudio a Empresa Involucrada\nI.1\nObservaciones al estudio de la Empresa Involucrada\nI.1\nRevisión de estudio\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante adjunta un archivo comprimido que incluye: Estudio + Base de Datos + Minuta de respuesta a observaciones\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nSES\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n26-11-2026\n\nHistorial de movimientos"
+      ]
+    },
+    "req5d4d811736d9ef76163c4333": {
+      "casilla": "ECC",
+      "parent_group": "ESTUDIOS DE INTERCONEXIÓN",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'ESTUDIO DE CORTOCIRCUITOS Y VERIFICACIÓN DE CAPACIDAD DE RUPTURA DE INTERRUPTORES\nEncargado: Dpto. Estándares y Normativa\nI.1\nRecepción de estudio\nI.1\nEnvío de estudio a Empresa Involucrada\nI.1\nObservaciones al estudio de la Empresa Involucrada\nI.1\nRevisión de estudio\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante adjunta un archivo comprimido que incluye: Estudio + Base de Datos + Minuta de respuesta a observaciones\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nSES\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n26-11-2026\n\nHistorial de movimientos"
+      ]
+    },
+    "req5d4d821236d9ef7615c3554c": {
+      "casilla": "EMT",
+      "parent_group": "ESTUDIOS DE INTERCONEXIÓN",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'ESTUDIO DE VERIFICACIÓN DE MALLA A TIERRA\nEncargado: Dpto. Estándares y Normativa\nI.1\nRecepción de estudio\nI.1\nEnvío de estudio a Empresa Involucrada\nI.1\nObservaciones al estudio de la Empresa Involucrada\nI.1\nRevisión de estudio\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante adjunta un archivo comprimido que incluye: Estudio + Base de Datos + Minuta de respuesta a observaciones\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nSES\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n26-11-2026\n\nHistorial de movimientos"
+      ]
+    },
+    "req5d4da28736d9ef7615c57207": {
+      "casilla": "GM",
+      "parent_group": "OTROS PES",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'GUÍA DE MANIOBRAS\nEncargado: CDC\nI.1\nRecepción de Guía de Maniobras\nI.1\nRevisión de Guía de Maniobras\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante envía una Guía de Maniobras con un Diagrama Unilineal Simplificado vigente incluido en el documento.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nSES\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n26-11-2026\n\nHistorial de movimientos"
+      ]
+    },
     "req5d4da05136d9ef7615c4d9bd": {
       "casilla": "Prot E",
       "parent_group": "OTROS PES",
@@ -229,6 +264,11 @@
     }
   },
   "first_seen": {
+    "req5d4d62dd36d9ef761727f012|La Empresa Solicitante adjunta un archivo comprimido que incluye: Estudio + Base de Datos + Minuta de respuesta a observaciones": "2026-11-25T13:59:39.834605+00:00",
+    "req5d4d815e36d9ef7615c337b6|La Empresa Solicitante adjunta un archivo comprimido que incluye: Estudio + Base de Datos + Minuta de respuesta a observaciones": "2026-11-25T13:59:39.834615+00:00",
+    "req5d4d811736d9ef76163c4333|La Empresa Solicitante adjunta un archivo comprimido que incluye: Estudio + Base de Datos + Minuta de respuesta a observaciones": "2026-11-25T13:59:39.834624+00:00",
+    "req5d4d821236d9ef7615c3554c|La Empresa Solicitante adjunta un archivo comprimido que incluye: Estudio + Base de Datos + Minuta de respuesta a observaciones": "2026-11-25T13:59:39.834633+00:00",
+    "req5d4da28736d9ef7615c57207|La Empresa Solicitante envía una Guía de Maniobras con un Diagrama Unilineal Simplificado vigente incluido en el documento.": "2026-11-25T13:59:39.834642+00:00",
     "req5d4da05136d9ef7615c4d9bd|Protocolos de pruebas SAT a equipos primarios": "2026-10-07T21:11:08.674178+00:00"
   }
 }

@@ -42,5 +42,84 @@
         "fecha_limite": "-"
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-25T13:59:39.835619+00:00",
+    "changes": [
+      "Casilla 'ECAP' cambió de estado: pendiente -> en_curso",
+      "Casilla 'ECB' cambió de estado: pendiente -> en_curso",
+      "Casilla 'ECC' cambió de estado: pendiente -> en_curso",
+      "Casilla 'EMT' cambió de estado: pendiente -> en_curso",
+      "Casilla 'GM' cambió de estado: pendiente -> en_curso",
+      "'ECAP': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 26-11-2026).",
+      "'ECB': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 26-11-2026).",
+      "'ECC': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 26-11-2026).",
+      "'EMT': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 26-11-2026).",
+      "'GM': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 26-11-2026).",
+      "Avance general del proyecto: 17% → 18%.",
+      "Avance de requisitos para inicio de PES: 19% → 21%."
+    ],
+    "alerts": [
+      {
+        "casilla": "ECAP",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "26-11-2026"
+      },
+      {
+        "casilla": "ECB",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "26-11-2026"
+      },
+      {
+        "casilla": "ECC",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "26-11-2026"
+      },
+      {
+        "casilla": "EMT",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "26-11-2026"
+      },
+      {
+        "casilla": "GM",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "26-11-2026"
+      },
+      {
+        "casilla": "ECAP",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "26-11-2026"
+      },
+      {
+        "casilla": "ECB",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "26-11-2026"
+      },
+      {
+        "casilla": "ECC",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "26-11-2026"
+      },
+      {
+        "casilla": "EMT",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "26-11-2026"
+      },
+      {
+        "casilla": "GM",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "26-11-2026"
+      }
+    ]
   }
 ]
